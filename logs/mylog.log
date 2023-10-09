@@ -1,0 +1,148 @@
+[INFO ] 2023-10-07 22:31:05.055 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-07 22:31:05.262 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-07 22:31:06.951 [main] StepDefination - Url opened
+[INFO ] 2023-10-07 22:31:07.413 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-07 22:31:13.084 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-07 22:31:13.096 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 22:31:15.363 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-07 22:31:15.393 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 22:31:15.821 [main] StepDefination - Browser closed
+[INFO ] 2023-10-07 22:59:58.100 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-07 22:59:58.336 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-07 23:00:00.003 [main] StepDefination - Url opened
+[INFO ] 2023-10-07 23:00:00.645 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-07 23:00:07.579 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-07 23:00:07.645 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 23:00:09.713 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-07 23:00:09.729 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 23:00:10.046 [main] StepDefination - Browser closed
+[INFO ] 2023-10-07 23:11:29.250 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-07 23:11:29.449 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-07 23:11:31.501 [main] StepDefination - Url opened
+[INFO ] 2023-10-07 23:11:31.904 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-07 23:11:38.566 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-07 23:11:38.595 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 23:11:40.805 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-07 23:11:40.820 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 23:11:41.083 [main] StepDefination - Browser closed
+[INFO ] 2023-10-07 23:11:41.323 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-07 23:11:41.452 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-07 23:12:59.676 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-07 23:12:59.873 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-07 23:13:00.826 [main] StepDefination - Url opened
+[INFO ] 2023-10-07 23:13:01.227 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-07 23:13:07.465 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-07 23:13:07.485 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 23:13:09.707 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-07 23:13:09.721 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 23:13:09.956 [main] StepDefination - Browser closed
+[INFO ] 2023-10-07 23:13:13.592 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-07 23:13:13.724 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-07 23:13:14.705 [main] StepDefination - Url opened
+[INFO ] 2023-10-07 23:13:15.117 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-07 23:13:21.883 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-07 23:13:21.899 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 23:13:24.188 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-07 23:13:24.209 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-07 23:13:24.440 [main] StepDefination - Browser closed
+[INFO ] 2023-10-07 23:13:28.134 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-07 23:13:28.270 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-07 23:13:29.219 [main] StepDefination - Url opened
+[INFO ] 2023-10-07 23:13:29.674 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-07 23:13:32.306 [main] StepDefination - Clicked on login button
+[INFO ] 2023-10-08 17:41:27.848 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-08 17:41:28.123 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-08 17:41:30.122 [main] StepDefination - Url opened
+[INFO ] 2023-10-08 17:41:30.538 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-08 17:41:37.493 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-08 17:41:37.527 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-08 17:41:40.185 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-08 17:41:40.203 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-08 17:41:40.398 [main] StepDefination - Browser closed
+[INFO ] 2023-10-08 18:11:37.765 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-08 18:11:38.181 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-08 18:11:39.847 [main] StepDefination - Url opened
+[INFO ] 2023-10-08 18:11:40.274 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-08 18:11:46.159 [main] StepDefination - Clicked on login button
+[INFO ] 2023-10-08 18:11:46.190 [main] StepDefination - User can view Dashboard test passed
+[INFO ] 2023-10-08 18:11:48.384 [main] StepDefination - customer menu clicked...
+[INFO ] 2023-10-08 18:11:51.879 [main] StepDefination - customer menu Item clicked...
+[INFO ] 2023-10-08 18:12:04.392 [main] StepDefination - clicked on add new button...
+[INFO ] 2023-10-08 18:12:04.430 [main] StepDefination - User can view Add new customer page-passed
+[INFO ] 2023-10-08 18:12:06.589 [main] StepDefination - customer information entered
+[INFO ] 2023-10-08 18:12:08.442 [main] StepDefination - clicked on save button
+[INFO ] 2023-10-08 18:12:08.791 [main] StepDefination - User can view confirmation message- passed
+[INFO ] 2023-10-08 18:12:08.989 [main] StepDefination - Browser closed
+[INFO ] 2023-10-08 18:12:09.390 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-08 18:12:09.423 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-08 18:14:36.984 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-08 18:14:37.225 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-08 18:14:39.449 [main] StepDefination - Url opened
+[INFO ] 2023-10-08 18:14:39.967 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-08 18:14:47.896 [main] StepDefination - Clicked on login button
+[INFO ] 2023-10-08 18:14:47.929 [main] StepDefination - User can view Dashboard test passed
+[INFO ] 2023-10-08 18:14:50.184 [main] StepDefination - customer menu clicked...
+[INFO ] 2023-10-08 18:14:53.980 [main] StepDefination - customer menu Item clicked...
+[INFO ] 2023-10-08 18:14:58.746 [main] StepDefination - clicked on add new button...
+[INFO ] 2023-10-08 18:14:58.795 [main] StepDefination - User can view Add new customer page-passed
+[INFO ] 2023-10-08 18:15:00.711 [main] StepDefination - customer information entered
+[INFO ] 2023-10-08 18:15:03.008 [main] StepDefination - clicked on save button
+[INFO ] 2023-10-08 18:15:03.441 [main] StepDefination - User can view confirmation message- passed
+[INFO ] 2023-10-08 18:15:03.721 [main] StepDefination - Browser closed
+[INFO ] 2023-10-08 18:15:05.378 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-08 18:15:05.628 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-08 18:15:07.614 [main] StepDefination - Url opened
+[INFO ] 2023-10-08 18:15:08.046 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-08 18:15:13.954 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-08 18:15:14.065 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-08 18:15:16.377 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-08 18:15:16.396 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-08 18:15:16.581 [main] StepDefination - Browser closed
+[INFO ] 2023-10-09 15:19:32.285 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-09 15:19:32.468 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-09 15:19:35.004 [main] StepDefination - Url opened
+[INFO ] 2023-10-09 15:19:35.563 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-09 15:19:41.852 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-09 15:19:42.054 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 15:19:44.233 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-09 15:19:44.404 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 15:19:44.749 [main] StepDefination - Browser closed
+[INFO ] 2023-10-09 15:21:12.953 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-09 15:21:13.148 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-09 15:21:14.329 [main] StepDefination - Url opened
+[INFO ] 2023-10-09 15:21:14.875 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-09 15:21:23.135 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-09 15:21:23.352 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 15:24:20.500 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-09 15:24:20.566 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-09 15:24:24.621 [main] StepDefination - Url opened
+[INFO ] 2023-10-09 15:24:25.184 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-09 15:24:31.841 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-09 15:24:32.114 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 15:24:35.964 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-09 15:24:36.132 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 15:24:36.469 [main] StepDefination - Browser closed
+[INFO ] 2023-10-09 16:40:02.530 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-09 16:40:02.621 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-09 16:40:06.904 [main] StepDefination - Url opened
+[INFO ] 2023-10-09 16:40:07.330 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-09 16:40:13.817 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-09 16:40:13.837 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 16:40:18.164 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-09 16:40:18.173 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 16:40:18.504 [main] StepDefination - Browser closed
+[INFO ] 2023-10-09 17:25:07.798 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-09 17:25:07.850 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-09 17:25:09.608 [main] StepDefination - Url opened
+[INFO ] 2023-10-09 17:25:10.037 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-09 17:25:15.873 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-09 17:25:15.945 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 17:26:09.239 [main] StepDefination - Setup1 executed....
+[INFO ] 2023-10-09 17:26:09.307 [main] StepDefination - User launched chrome browser....
+[INFO ] 2023-10-09 17:26:10.256 [main] StepDefination - Url opened
+[INFO ] 2023-10-09 17:26:10.679 [main] StepDefination - email address and password entered
+[INFO ] 2023-10-09 17:26:19.169 [main] StepDefination - Clicked on login button
+[WARN ] 2023-10-09 17:26:19.195 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 17:26:23.190 [main] StepDefination - user clicked on logout link
+[WARN ] 2023-10-09 17:26:23.206 [main] StepDefination - Test passed: Login feature :Page title matched.
+[INFO ] 2023-10-09 17:26:23.400 [main] StepDefination - Browser closed
